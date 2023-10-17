@@ -1,7 +1,6 @@
 # Impledge_technologies..problem-solution
 
-Here is the steps to execute your code, an overview of your program, including your design 
-decisions, approach
+Here is the steps to execute the code, an overview of the program, including  designs , decisions and  approach
 
 1.Import the time module to measure the execution time.
 
